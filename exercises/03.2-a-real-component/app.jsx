@@ -20,4 +20,4 @@ export const BootstrapCard = () => {
 	);
 };
 //remember to use ReactDOM.render to include the component into the website
-ReactDOM.render(<BootstrapCard></BootstrapCard>, document.querySelector("#myDiv"));
+ReactDOM.render(<BootstrapCard/>, document.querySelector("#myDiv"));
