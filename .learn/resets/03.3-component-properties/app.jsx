@@ -19,10 +19,6 @@ const BootstrapCard = props => {
 };
 BootstrapCard.propTypes = {
 	title: PropType.string
-	title: PropType.string
-	title: PropType.string
-	title: PropType.string
-	title: PropType.string
 		// 2) add here the new properties into the proptypes object
 };
 
